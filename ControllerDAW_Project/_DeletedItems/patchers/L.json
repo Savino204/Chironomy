@@ -1,0 +1,54 @@
+{
+	"pattrstorage" : 	{
+		"name" : "L",
+		"slots" : 		{
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"Granulator_Controls_L::Drop" : [ "" ],
+					"Granulator_Controls_L::LSynthControlGateX" : [ 0 ],
+					"Granulator_Controls_L::LSynthControlGateY" : [ 0 ],
+					"Granulator_Controls_L::SynthModeSwitch" : [ 0 ],
+					"Granulator_Controls_L::live.gain~" : [ 0.0 ],
+					"Granulator_Controls_L::GranulatorControlsL" : [ -1 ],
+					"ABXY::live.gain~" : [ 0.0 ],
+					"ABXY::X::ButtonGainL" : [ 127 ],
+					"ABXY::X::ButtonGainR" : [ 127 ],
+					"ABXY::X::ButtonModeSelect" : [ 0 ],
+					"ABXY::X::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"ABXY::X::live.dial" : [ 127.0 ],
+					"ABXY::X::live.drop" : [ "" ],
+					"ABXY::X::SingleButton" : [ -1 ],
+					"ABXY::Y::ButtonGainL" : [ 127 ],
+					"ABXY::Y::ButtonGainR" : [ 127 ],
+					"ABXY::Y::ButtonModeSelect" : [ 0 ],
+					"ABXY::Y::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"ABXY::Y::live.dial" : [ 127.0 ],
+					"ABXY::Y::live.drop" : [ "" ],
+					"ABXY::Y::SingleButton" : [ -1 ],
+					"ABXY::A::ButtonGainL" : [ 127 ],
+					"ABXY::A::ButtonGainR" : [ 127 ],
+					"ABXY::A::ButtonModeSelect" : [ 0 ],
+					"ABXY::A::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"ABXY::A::live.dial" : [ 127.0 ],
+					"ABXY::A::live.drop" : [ "" ],
+					"ABXY::A::SingleButton" : [ -1 ],
+					"ABXY::B::ButtonGainL" : [ 127 ],
+					"ABXY::B::ButtonGainR" : [ 127 ],
+					"ABXY::B::ButtonModeSelect" : [ 0 ],
+					"ABXY::B::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"ABXY::B::live.dial" : [ 127.0 ],
+					"ABXY::B::live.drop" : [ "" ],
+					"ABXY::B::SingleButton" : [ -1 ],
+					"ABXY::ABXY" : [ -1 ],
+					"TriggerFaderL::TriggerModeSelect" : [ 1 ],
+					"TriggerFaderL::TriggerFader" : [ -1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

@@ -1,0 +1,71 @@
+{
+	"pattrstorage" : 	{
+		"name" : "L",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"JS_L::ButtonFilePath" : [ "" ],
+					"JS_L::Drop" : [ "" ],
+					"JS_L::LSynthControlGateX" : [ 0 ],
+					"JS_L::LSynthControlGateY" : [ 0 ],
+					"JS_L::SynthModeSwitch" : [ 0 ],
+					"JS_L::live.gain~" : [ 0.0 ],
+					"ABXY::live.gain~" : [ 0.0 ],
+					"ABXY::X::ButtonFilePath" : [ "\"C:/Users/Savino Go/ControllerDAW/ControllerDAW_Project/media/Granular Natural.wav\"" ],
+					"ABXY::X::ButtonModeSelect" : [ 2 ],
+					"ABXY::X::live.dial" : [ 127.0 ],
+					"ABXY::X::live.drop" : [ "" ],
+					"ABXY::Y::ButtonFilePath" : [ "\"C:/Users/Savino Go/OneDrive - The Pembroke Hill School/Documents/Image-Line/FL Studio/Projects/New Album Idea Start/Chironomy Sound Designs/Otto Fretboard Stuff.wav\"" ],
+					"ABXY::Y::ButtonModeSelect" : [ 2 ],
+					"ABXY::Y::live.dial" : [ 127.0 ],
+					"ABXY::Y::live.drop" : [ "" ],
+					"ABXY::A::ButtonFilePath" : [ "\"C:/Users/Savino Go/ControllerDAW/ControllerDAW_Project/media/Lead Thingy.wav\"" ],
+					"ABXY::A::ButtonModeSelect" : [ 2 ],
+					"ABXY::A::live.dial" : [ 127.0 ],
+					"ABXY::A::live.drop" : [ "" ],
+					"ABXY::B::ButtonFilePath" : [ "\"C:/Users/Savino Go/OneDrive - The Pembroke Hill School/Documents/Image-Line/FL Studio/Projects/New Album Idea Start/Chironomy Sound Designs/Otto Sustains.wav\"" ],
+					"ABXY::B::ButtonModeSelect" : [ 2 ],
+					"ABXY::B::live.dial" : [ 127.0 ],
+					"ABXY::B::live.drop" : [ "" ],
+					"LT::TriggerModeSelect" : [ 1 ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"JS_L::ButtonFilePath" : [  ],
+					"JS_L::Drop" : [ "" ],
+					"JS_L::LSynthControlGateX" : [ 0 ],
+					"JS_L::LSynthControlGateY" : [ 0 ],
+					"JS_L::SynthModeSwitch" : [ 0 ],
+					"JS_L::live.gain~" : [ 0.0 ],
+					"ABXY::live.gain~" : [ 0.0 ],
+					"ABXY::X::ButtonFilePath" : [  ],
+					"ABXY::X::ButtonModeSelect" : [ 2 ],
+					"ABXY::X::live.dial" : [ 127.0 ],
+					"ABXY::X::live.drop" : [ "" ],
+					"ABXY::Y::ButtonFilePath" : [  ],
+					"ABXY::Y::ButtonModeSelect" : [ 2 ],
+					"ABXY::Y::live.dial" : [ 127.0 ],
+					"ABXY::Y::live.drop" : [ "" ],
+					"ABXY::A::ButtonFilePath" : [  ],
+					"ABXY::A::ButtonModeSelect" : [ 2 ],
+					"ABXY::A::live.dial" : [ 127.0 ],
+					"ABXY::A::live.drop" : [ "" ],
+					"ABXY::B::ButtonFilePath" : [  ],
+					"ABXY::B::ButtonModeSelect" : [ 2 ],
+					"ABXY::B::live.dial" : [ 127.0 ],
+					"ABXY::B::live.drop" : [ "" ],
+					"LT::TriggerModeSelect" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

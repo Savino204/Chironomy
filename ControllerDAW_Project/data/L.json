@@ -1,0 +1,47 @@
+{
+	"pattrstorage" : 	{
+		"name" : "L",
+		"slots" : 		{
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"JS_L::Drop" : [ "" ],
+					"JS_L::LSynthControlGateX" : [ 0 ],
+					"JS_L::LSynthControlGateY" : [ 0 ],
+					"JS_L::SynthModeSwitch" : [ 0 ],
+					"JS_L::live.gain~" : [ 0.0 ],
+					"ABXY::live.gain~" : [ 0.0 ],
+					"ABXY::X::ButtonGainL" : [ 127 ],
+					"ABXY::X::ButtonGainR" : [ 127 ],
+					"ABXY::X::ButtonModeSelect" : [ 2 ],
+					"ABXY::X::DropLegend" : [ "legend", "Drop a Sound to Give the Granulator" ],
+					"ABXY::X::live.dial" : [ 127.0 ],
+					"ABXY::X::live.drop" : [ "" ],
+					"ABXY::Y::ButtonGainL" : [ 127 ],
+					"ABXY::Y::ButtonGainR" : [ 127 ],
+					"ABXY::Y::ButtonModeSelect" : [ 2 ],
+					"ABXY::Y::DropLegend" : [ "legend", "Drop a Sound to Give the Granulator" ],
+					"ABXY::Y::live.dial" : [ 127.0 ],
+					"ABXY::Y::live.drop" : [ "" ],
+					"ABXY::A::ButtonGainL" : [ 127 ],
+					"ABXY::A::ButtonGainR" : [ 127 ],
+					"ABXY::A::ButtonModeSelect" : [ 2 ],
+					"ABXY::A::DropLegend" : [ "legend", "Drop a Sound to Give the Granulator" ],
+					"ABXY::A::live.dial" : [ 127.0 ],
+					"ABXY::A::live.drop" : [ "" ],
+					"ABXY::B::ButtonGainL" : [ 127 ],
+					"ABXY::B::ButtonGainR" : [ 127 ],
+					"ABXY::B::ButtonModeSelect" : [ 2 ],
+					"ABXY::B::DropLegend" : [ "legend", "Drop a Sound to Give the Granulator" ],
+					"ABXY::B::live.dial" : [ 127.0 ],
+					"ABXY::B::live.drop" : [ "" ],
+					"LT::TriggerModeSelect" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

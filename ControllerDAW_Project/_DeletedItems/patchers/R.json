@@ -1,0 +1,54 @@
+{
+	"pattrstorage" : 	{
+		"name" : "R",
+		"slots" : 		{
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"TriggerFaderR::TriggerModeSelect" : [ 1 ],
+					"TriggerFaderR::TriggerFader" : [ -1 ],
+					"Granulator_Controls_R::Drop" : [ "" ],
+					"Granulator_Controls_R::RSynthControlGateX" : [ 0 ],
+					"Granulator_Controls_R::RSynthControlGateY" : [ 0 ],
+					"Granulator_Controls_R::RSynthModeSelect" : [ 0 ],
+					"Granulator_Controls_R::live.gain~" : [ 0.0 ],
+					"Granulator_Controls_R::GranulatorContolsR" : [ -1 ],
+					"upDownLeftRight::live.gain~" : [ 0.0 ],
+					"upDownLeftRight::Right::ButtonGainL" : [ 127 ],
+					"upDownLeftRight::Right::ButtonGainR" : [ 127 ],
+					"upDownLeftRight::Right::ButtonModeSelect" : [ 0 ],
+					"upDownLeftRight::Right::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"upDownLeftRight::Right::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Right::live.drop" : [ "" ],
+					"upDownLeftRight::Right::SingleButton" : [ -1 ],
+					"upDownLeftRight::Down::ButtonGainL" : [ 127 ],
+					"upDownLeftRight::Down::ButtonGainR" : [ 127 ],
+					"upDownLeftRight::Down::ButtonModeSelect" : [ 0 ],
+					"upDownLeftRight::Down::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"upDownLeftRight::Down::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Down::live.drop" : [ "" ],
+					"upDownLeftRight::Down::SingleButton" : [ -1 ],
+					"upDownLeftRight::Up::ButtonGainL" : [ 127 ],
+					"upDownLeftRight::Up::ButtonGainR" : [ 127 ],
+					"upDownLeftRight::Up::ButtonModeSelect" : [ 0 ],
+					"upDownLeftRight::Up::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"upDownLeftRight::Up::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Up::live.drop" : [ "" ],
+					"upDownLeftRight::Up::SingleButton" : [ -1 ],
+					"upDownLeftRight::Left::ButtonGainL" : [ 127 ],
+					"upDownLeftRight::Left::ButtonGainR" : [ 127 ],
+					"upDownLeftRight::Left::ButtonModeSelect" : [ 0 ],
+					"upDownLeftRight::Left::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"upDownLeftRight::Left::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Left::live.drop" : [ "" ],
+					"upDownLeftRight::Left::SingleButton" : [ -1 ],
+					"upDownLeftRight::UpDownLeftRight" : [ -1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

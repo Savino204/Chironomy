@@ -1,0 +1,47 @@
+{
+	"pattrstorage" : 	{
+		"name" : "L",
+		"slots" : 		{
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"JS_L::Drop" : [ "" ],
+					"JS_L::LSynthControlGateX" : [ 0 ],
+					"JS_L::LSynthControlGateY" : [ 0 ],
+					"JS_L::SynthModeSwitch" : [ 0 ],
+					"JS_L::live.gain~" : [ -1.746031443278 ],
+					"ABXY::live.gain~" : [ 0.0 ],
+					"ABXY::X::ButtonGainL" : [ 127 ],
+					"ABXY::X::ButtonGainR" : [ 127 ],
+					"ABXY::X::ButtonModeSelect" : [ 0 ],
+					"ABXY::X::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"ABXY::X::live.dial" : [ 127.0 ],
+					"ABXY::X::live.drop" : [ "" ],
+					"ABXY::Y::ButtonGainL" : [ 127 ],
+					"ABXY::Y::ButtonGainR" : [ 127 ],
+					"ABXY::Y::ButtonModeSelect" : [ 0 ],
+					"ABXY::Y::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"ABXY::Y::live.dial" : [ 127.0 ],
+					"ABXY::Y::live.drop" : [ "" ],
+					"ABXY::A::ButtonGainL" : [ 127 ],
+					"ABXY::A::ButtonGainR" : [ 127 ],
+					"ABXY::A::ButtonModeSelect" : [ 0 ],
+					"ABXY::A::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"ABXY::A::live.dial" : [ 127.0 ],
+					"ABXY::A::live.drop" : [ "" ],
+					"ABXY::B::ButtonGainL" : [ 127 ],
+					"ABXY::B::ButtonGainR" : [ 127 ],
+					"ABXY::B::ButtonModeSelect" : [ 0 ],
+					"ABXY::B::DropLegend" : [ "legend", "Drop One-shot Sound Here" ],
+					"ABXY::B::live.dial" : [ 127.0 ],
+					"ABXY::B::live.drop" : [ "" ],
+					"LT::TriggerModeSelect" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

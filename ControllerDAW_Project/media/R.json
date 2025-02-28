@@ -1,0 +1,71 @@
+{
+	"pattrstorage" : 	{
+		"name" : "R",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"RT::TriggerModeSelect" : [ 1 ],
+					"JS_R::Drop" : [ "" ],
+					"JS_R::RSynthControlGateX" : [ 0 ],
+					"JS_R::RSynthControlGateY" : [ 0 ],
+					"JS_R::RSynthFilepath" : [ "" ],
+					"JS_R::RSynthModeSelect" : [ 0 ],
+					"JS_R::live.gain~" : [ 0.0 ],
+					"upDownLeftRight::live.gain~" : [ 0.0 ],
+					"upDownLeftRight::Right::ButtonFilePath" : [ "\"C:/Users/Savino Go/OneDrive - The Pembroke Hill School/Documents/Image-Line/FL Studio/Projects/New Album Idea Start/Chironomy Sound Designs/Otto Fretboard Stuff.wav\"" ],
+					"upDownLeftRight::Right::ButtonModeSelect" : [ 2 ],
+					"upDownLeftRight::Right::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Right::live.drop" : [ "" ],
+					"upDownLeftRight::Down::ButtonFilePath" : [ "\"C:/Users/Savino Go/ControllerDAW/ControllerDAW_Project/media/Bloopy Drone.wav\"" ],
+					"upDownLeftRight::Down::ButtonModeSelect" : [ 2 ],
+					"upDownLeftRight::Down::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Down::live.drop" : [ "" ],
+					"upDownLeftRight::Up::ButtonFilePath" : [ "\"C:/Users/Savino Go/ControllerDAW/ControllerDAW_Project/media/Synth Drum Thing.wav\"" ],
+					"upDownLeftRight::Up::ButtonModeSelect" : [ 2 ],
+					"upDownLeftRight::Up::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Up::live.drop" : [ "" ],
+					"upDownLeftRight::Left::ButtonFilePath" : [ "\"C:/Users/Savino Go/ControllerDAW/ControllerDAW_Project/media/Granular 80s.wav\"" ],
+					"upDownLeftRight::Left::ButtonModeSelect" : [ 2 ],
+					"upDownLeftRight::Left::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Left::live.drop" : [ "" ]
+				}
+
+			}
+,
+			"9" : 			{
+				"id" : 9,
+				"data" : 				{
+					"RT::TriggerModeSelect" : [ 1 ],
+					"JS_R::Drop" : [ "" ],
+					"JS_R::RSynthControlGateX" : [ 0 ],
+					"JS_R::RSynthControlGateY" : [ 0 ],
+					"JS_R::RSynthFilepath" : [ "" ],
+					"JS_R::RSynthModeSelect" : [ 0 ],
+					"JS_R::live.gain~" : [ 0.0 ],
+					"upDownLeftRight::live.gain~" : [ 0.0 ],
+					"upDownLeftRight::Right::ButtonFilePath" : [ "" ],
+					"upDownLeftRight::Right::ButtonModeSelect" : [ 2 ],
+					"upDownLeftRight::Right::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Right::live.drop" : [ "" ],
+					"upDownLeftRight::Down::ButtonFilePath" : [ "" ],
+					"upDownLeftRight::Down::ButtonModeSelect" : [ 2 ],
+					"upDownLeftRight::Down::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Down::live.drop" : [ "" ],
+					"upDownLeftRight::Up::ButtonFilePath" : [ "" ],
+					"upDownLeftRight::Up::ButtonModeSelect" : [ 2 ],
+					"upDownLeftRight::Up::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Up::live.drop" : [ "" ],
+					"upDownLeftRight::Left::ButtonFilePath" : [ "" ],
+					"upDownLeftRight::Left::ButtonModeSelect" : [ 2 ],
+					"upDownLeftRight::Left::live.dial" : [ 127.0 ],
+					"upDownLeftRight::Left::live.drop" : [ "" ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
